@@ -1,3 +1,7 @@
+# [BOAZ] Evasion and Antivirus Testing Tool
+
+This is an alias for the main repository [Boaz_beta]. 
+Please visit the main repo [here](https://github.com/thomasxm/Boaz_beta).
 <img width="423" alt="loglo" src="https://github.com/thomasxm/Boaz_beta/assets/44269971/a5427ccc-e2ed-4cc3-ab81-084de691b23f">
 
 
