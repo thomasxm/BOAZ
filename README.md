@@ -4,14 +4,15 @@ This is an alias for the main repository **[Boaz_beta]**.
 Please visit the main repo [here](https://github.com/thomasxm/Boaz_beta).
 
 
-
-
 <img width="423" alt="loglo" src="https://github.com/thomasxm/Boaz_beta/assets/44269971/a5427ccc-e2ed-4cc3-ab81-084de691b23f">
+
+
+
 
 
 <img width="352" alt="small_logo" src="https://github.com/thomasxm/Boaz_beta/assets/44269971/99abcf82-7084-47e5-a993-2a712b4ca664">
 
-# BOAZ Evasion Tool (for educational purpose)
+# BOAZ Evasion and Antivirus Testing Tool (for educational purpose)
 
 
 
@@ -376,6 +377,7 @@ Boaz evasion wrapped Mimikatz.exe x64 release. The detection rate for wrapped Mi
 - **Docker**: Make it available with Docker without installation
 - **Add a GUI for users**: Web UI or Python UI.
 - **Loaders**: Implement more loader templates (process injection and code execution methods) with a divide and conquer option available.
+- **Rust**: Loader should be language agnostic. Rust loader would be a good choice. 
 - **COFF loaders**: Implement COFF loader suppport.
 - **RISC-V VM** Implement new loader using RISC-V VM concept. 
 - **Obfuscation**: Enhancing obfuscation methods and integrating new LLVM passes. 
